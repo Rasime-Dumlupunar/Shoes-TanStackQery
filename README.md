@@ -23,3 +23,5 @@ This project is a fully functional shoe e-commerce website developed using **Rea
 - **json-server**: To simulate product data using a mock backend API.
 - **@tanstack/react-query**: For efficient data fetching, caching, and synchronization.
 - **xss**: To sanitize user input and prevent XSS attacks.
+
+![](https://github.com/Rasime-Dumlupunar/Shoes-TanStackQery/blob/main/shoes.gif)
